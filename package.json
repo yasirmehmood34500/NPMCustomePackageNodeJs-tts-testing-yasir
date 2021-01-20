@@ -1,0 +1,23 @@
+{
+  "name": "timetechsol-team-develop",
+  "version": "1.0.1",
+  "description": "TimeTechSol Testing NPM Package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasirmehmood34500/tts-testing-yasir.git"
+  },
+  "keywords": [
+    "npm",
+    "tts",
+    "timetechsol",
+    "co-founder",
+    "yasir"
+  ],
+  "author": "Yasir Mehmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasirmehmood34500/tts-testing-yasir/issues"
+  },
+  "homepage": "https://github.com/yasirmehmood34500/tts-testing-yasir#readme"
+}
